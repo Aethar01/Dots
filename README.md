@@ -1,2 +1,3 @@
 # Dots
 Linux dot files
+feel free to use anything, i mean, ive shamelessly stole other peoples code and ideas so...
