@@ -34,8 +34,10 @@ feh --bg-fill ~/images/wallpaperflare-cropped
 #feh --bg-fill ~/images/power.png
 
 xinput --set-prop 14 285 0.01
+xinput disable 17
+xinput disable 18
 
-picom --experimental-backends --config ~/.config/picom/picom.conf
+picom --config ~/.config/picom/picom.conf
 # picom --corner-radius 25
 
 uim-xim
