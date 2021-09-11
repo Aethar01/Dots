@@ -1,8 +1,8 @@
 {
 	"changeLogs": {
-		"BDFDB": "1.8.0",
+		"BDFDB": "1.8.3",
 		"GameActivityToggle": "1.0.4",
-		"SpotifyControls": "1.1.9"
+		"SpotifyControls": "1.2.4"
 	},
 	"choices": {
 		"toastPosition": "right"
@@ -13,7 +13,7 @@
 		"useChromium": false
 	},
 	"hashes": {
-		"0BDFDB.data.json": "93c4f065b4ec724a57a0281612da761f55164b28",
-		"0BDFDB.raw.css": "80b6d40ad2af425192bcab890200d7814ea6d9a1"
+		"0BDFDB.data.json": "01d1409279e6f5a46c0670d2dd8f893a5d204f85",
+		"0BDFDB.raw.css": "6bb82eb9f45d2d68a03ad2d3e21dcf35a5e2e3ee"
 	}
 }
